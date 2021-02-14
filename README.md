@@ -6,6 +6,7 @@ Create a modern blogging platform with react
 
 ![react blog](https://a.fsdn.com/con/app/proj/reactblogger/screenshots/reactblog2.png/max/max/1)
 
+
 Simple and fresh design
 
 ![react blog](https://a.fsdn.com/con/app/proj/reactblogger/screenshots/reactblog%281%29.png/max/max/1)
